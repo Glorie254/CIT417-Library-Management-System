@@ -1,0 +1,4 @@
+config/app.local.php
+*.log
+.DS_Store
+/vendor/
